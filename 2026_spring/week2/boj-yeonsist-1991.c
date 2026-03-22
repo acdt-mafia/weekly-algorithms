@@ -2,7 +2,7 @@
 
 typedef struct
 {
-    char left;  // 노드가 전부 A,B,C같은 대문자 문자임.
+    char left;  // 노드가 전부 A,B,C같은 대문자 문자이므로 char
     char right; // 포인터 연결구조로 안 해도 됨.
 } Node;
 
